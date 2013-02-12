@@ -2,6 +2,7 @@ Run 'make test' to make sure everything is working as intended.
 
 For more information see:
 
+- http://scipy.org
 - http://cython.org/
 - http://docs.cython.org/
 - For NumPy specifics, see http://wiki.cython.org/tutorials/numpy
